@@ -1,0 +1,10 @@
+x=5
+y=3.14
+z="Hello"
+print(type(x))   #<class 'int'>
+print(type(y))   #<class 'float'>
+print(type(z))   #<class 'str'>
+
+x = int(1)   # x will be 1
+y = int(2.8) # y will be 2
+z = int("3") # z will be 3
